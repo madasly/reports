@@ -1,0 +1,137 @@
+{
+  "reports": [
+    {
+      "id": 1,
+      "title": "American Sniffer",
+      "status": "new",
+      "reward": null,
+      "severity": "low",
+      "author": {
+        "username": "Elliot"
+      },
+      "reported_at": "2018-04-10T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Nas Boot",
+      "status": "new",
+      "reward": null,
+      "severity": "critical",
+      "author": {
+        "username": "Mr. Robot"
+      },
+      "reported_at": "2018-04-09T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bloody Sun(zero)day",
+      "status": "accepted",
+      "reward": null,
+      "severity": "medium",
+      "author": {
+        "username": "Darlene"
+      },
+      "reported_at": "2018-04-08T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Full Metal Packet",
+      "status": "accepted",
+      "reward": null,
+      "severity": "high",
+      "author": {
+        "username": "Romero"
+      },
+      "reported_at": "2018-04-07T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Kernelypse Now",
+      "status": "rewarded",
+      "reward": "250",
+      "severity": "low",
+      "author": {
+        "username": "Mobley"
+      },
+      "reported_at": "2018-04-06T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Perl Harbor",
+      "status": "fixed",
+      "reward": "750",
+      "severity": "high",
+      "author": {
+        "username": "Trenton"
+      },
+      "reported_at": "2018-04-05T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    },
+    {
+      "id": 7,
+      "title": "The Patch of the Mohicans",
+      "status": "closed",
+      "reward": "500",
+      "severity": "medium",
+      "author": {
+        "username": "Dark Army"
+      },
+      "reported_at": "2018-04-04T18:25:43.511Z",
+      "description": "Donec pharetra elementum leo ut porta. Donec leo lacus, lacinia et ligula a, ornare luctus risus. Ut vel nisl non arcu posuere malesuada id tempor nisi. Nullam est enim, consequat ac tortor.",
+      "poc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor, ante in pretium consequat, neque massa lobortis nisi, nec interdum tortor sem id magna. Etiam ullamcorper ornare dolor, ac aliquam velit malesuada nec. Donec et diam lacinia, aliquet tellus ut, dictum leo. Duis vel urna ullamcorper, malesuada nisl consectetur, auctor elit. In odio turpis, commodo ac lectus eu, venenatis scelerisque elit. Vestibulum rhoncus vehicula aliquam. Curabitur interdum orci ante, eu iaculis nisl consequat id. Duis commodo justo vitae ornare vehicula. Pellentesque ac bibendum nisl. Morbi vehicula, nibh sed scelerisque egestas, sem mi pulvinar justo, sit amet gravida ipsum lacus vel ligula. Praesent vitae eros vel lacus aliquet consequat non et lacus. Mauris vel lectus suscipit justo auctor eleifend at at sem. Nunc eu maximus ligula. Sed tincidunt, augue id ultrices imperdiet, sem ante varius massa, quis auctor est libero id velit. Sed a lobortis purus, et posuere tellus. ",
+      "bugbounty": {
+        "name": "Steel Mountain"
+      },
+      "organization": {
+        "name": "E-Corp"
+      }
+    }
+  ]
+}
